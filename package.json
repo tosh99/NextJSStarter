@@ -1,0 +1,19 @@
+{
+  "name": "nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "prod": "next build && next export"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "moment": "^2.29.1",
+    "next": "11.1.2",
+    "react": "^17.0.1",
+    "rxjs": "^7.3.0",
+    "sass": "^1.30.0"
+  }
+}
