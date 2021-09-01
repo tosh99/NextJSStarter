@@ -324,4 +324,3 @@ ENV/
 **/public/worker-*.js.map
 
 # End of https://www.gitignore.io/api/macos,linux,django,python,pycharm
-/package-lock.json
